@@ -1,3 +1,6 @@
 .DS_Store
 */*.o
 */*.pro.user
+*/*/*.pro.user
+build-*
+*/build-*
